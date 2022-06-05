@@ -36,10 +36,11 @@
         <entry key="..\:/temp_project/SE2022_3_3/Hanger/app/src/main/res/menu/navigation_clothes_menu.xml" value="0.3651041666666667" />
         <entry key="..\:/temp_project/SE2022_3_3/Hanger/app/src/main/res/xml/main_tabs.xml" value="0.20104166666666667" />
         <entry key="..\:/temp_project/SE2022_3_3/Hanger/app/src/main/res/xml/network_security_config.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/layout/fragment_dialog_cloth_add.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
