@@ -59,6 +59,7 @@ class LoginActivity(
                                     MainActivity::class.java
                                 )
                             )
+                            finish()
                         } ?: showSnackBar("아이디와 패스워드를 다시 확인해주세요!")
                     }
                 } else {
